@@ -1,4 +1,4 @@
-# FlarioX Visual Resources
+# FlarioX Resources
 
 Este repositorio contiene los **recursos visuales y de identidad** de la distribución FlarioX. Aquí centralizamos los elementos estéticos que definen la experiencia visual del sistema.
 
